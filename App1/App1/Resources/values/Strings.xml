@@ -3,8 +3,21 @@
     <string name="Story_List">View Stories</string>
     <string name="Random_Story">Random Stories</string>
     <string name="Search_Story">Search Stories</string>
+    <string name="Add_Story">Add Story</string>
     <string name="Search">Search</string>
     <string name="About">View Website</string>
     <string name="Contrast">Night View</string>
     <string name="ApplicationName">Story Reader</string>
+    <string name="ApplicationName">Story Reader</string>
+    <string name="Author">Author</string>
+    <string name="Story_Title">Title</string>
+    <string name="Keywords">Keywords</string>
+    <string name="Chapter_Title">Chapter Title</string>
+    <string name="Chapter_Body">Chapter Body</string>
+    <string name="Next">Next</string>
+    <string name="Back">Back</string>
+    <string name="ok">OK</string>
+    <string name="Submit">Submit</string>
+    <string name="ApplicationName">Story Reader</string>
+
 </resources>

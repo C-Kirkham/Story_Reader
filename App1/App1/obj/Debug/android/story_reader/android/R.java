@@ -14,37 +14,42 @@ public final class R {
         public static final int icon=0x7f020000;
     }
     public static final class id {
-        public static final int ChapterTitle=0x7f050009;
-        public static final int SearchButton=0x7f05000f;
-        public static final int StoryTitle=0x7f050008;
-        public static final int button1=0x7f050003;
-        public static final int button2=0x7f050004;
-        public static final int button3=0x7f050005;
-        public static final int button4=0x7f050006;
+        public static final int ChapterTitle=0x7f05000a;
+        public static final int SearchButton=0x7f050012;
+        public static final int StoryTitle=0x7f050009;
+        public static final int button1=0x7f050004;
+        public static final int button2=0x7f050005;
+        public static final int button3=0x7f050006;
+        public static final int button4=0x7f050007;
+        public static final int button5=0x7f050003;
         public static final int gallery1=0x7f050001;
-        public static final int gridLayout1=0x7f050007;
+        public static final int gridLayout1=0x7f050008;
         public static final int imageView1=0x7f050002;
-        public static final int linearLayout1=0x7f05000b;
+        public static final int linearLayout1=0x7f05000c;
         public static final int scrollView1=0x7f050000;
-        public static final int searchView1=0x7f05000c;
-        public static final int searchView2=0x7f05000e;
-        public static final int textView1=0x7f05000a;
-        public static final int textView2=0x7f05000d;
-        public static final int webView1=0x7f050010;
+        public static final int searchView1=0x7f05000d;
+        public static final int searchView2=0x7f05000f;
+        public static final int searchView3=0x7f050011;
+        public static final int textView1=0x7f05000b;
+        public static final int textView2=0x7f05000e;
+        public static final int textView3=0x7f050010;
+        public static final int webView1=0x7f050013;
     }
     public static final class layout {
-        public static final int listview=0x7f030000;
-        public static final int main=0x7f030001;
-        public static final int read=0x7f030002;
-        public static final int search=0x7f030003;
-        public static final int site=0x7f030004;
+        public static final int addstory=0x7f030000;
+        public static final int listview=0x7f030001;
+        public static final int main=0x7f030002;
+        public static final int read=0x7f030003;
+        public static final int search=0x7f030004;
+        public static final int site=0x7f030005;
     }
     public static final class string {
-        public static final int About=0x7f040004;
-        public static final int ApplicationName=0x7f040006;
-        public static final int Contrast=0x7f040005;
+        public static final int About=0x7f040005;
+        public static final int Add_Story=0x7f040003;
+        public static final int ApplicationName=0x7f040007;
+        public static final int Contrast=0x7f040006;
         public static final int Random_Story=0x7f040001;
-        public static final int Search=0x7f040003;
+        public static final int Search=0x7f040004;
         public static final int Search_Story=0x7f040002;
         public static final int Story_List=0x7f040000;
     }
