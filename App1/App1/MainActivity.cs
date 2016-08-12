@@ -22,10 +22,17 @@ namespace Story_Reader
 
             // Get our button from the layout resource,
             // and attach an event to it
-            Button button = FindViewById<Button>(Resource.Id.button1);
+            Button search = FindViewById<Button>(Resource.Id.button1);
+            Button view = FindViewById<Button>(Resource.Id.button2);
+            Button random = FindViewById<Button>(Resource.Id.button3);
 
-            button.Click += delegate { button.Text = string.Format("{0} clicks!", count++); };
-        }
+            Button site = FindViewById<Button>(Resource.Id.button4);
+
+            search.Click += delegate {SetContentView(Resource.Layout.Search);};
+            view.Click +=delegate {SetContentView(Resource.Layout.ListView);};
+            random.Click += delegate { SetContentView(Resource.Layout.Read); };
+            site.Click += delegate { Android.Webkit.WebView.FindAddress("www.crickeycottage.com.au");}; 
+        }      
     }
 }
 

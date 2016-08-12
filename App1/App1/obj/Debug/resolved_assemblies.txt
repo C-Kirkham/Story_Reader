@@ -1,22 +1,22 @@
-c:\users\chris\documents\visual studio 2013\Projects\App1\App1\obj\Debug\android\assets\Story_Reader.dll
-c:\users\chris\documents\visual studio 2013\Projects\App1\App1\obj\Debug\android\assets\Java.Interop.dll
-c:\users\chris\documents\visual studio 2013\Projects\App1\App1\obj\Debug\android\assets\Mono.Android.dll
-c:\users\chris\documents\visual studio 2013\Projects\App1\App1\obj\Debug\android\assets\mscorlib.dll
-c:\users\chris\documents\visual studio 2013\Projects\App1\App1\obj\Debug\android\assets\System.Core.dll
-c:\users\chris\documents\visual studio 2013\Projects\App1\App1\obj\Debug\android\assets\System.dll
-c:\users\chris\documents\visual studio 2013\Projects\App1\App1\obj\Debug\android\assets\System.Xml.dll
-c:\users\chris\documents\visual studio 2013\Projects\App1\App1\obj\Debug\android\assets\System.Xml.Linq.dll
-c:\users\chris\documents\visual studio 2013\Projects\App1\App1\obj\Debug\android\assets\System.Threading.dll
-c:\users\chris\documents\visual studio 2013\Projects\App1\App1\obj\Debug\android\assets\System.Runtime.dll
-c:\users\chris\documents\visual studio 2013\Projects\App1\App1\obj\Debug\android\assets\System.ComponentModel.Composition.dll
-c:\users\chris\documents\visual studio 2013\Projects\App1\App1\obj\Debug\android\assets\System.Collections.dll
-c:\users\chris\documents\visual studio 2013\Projects\App1\App1\obj\Debug\android\assets\System.Collections.Concurrent.dll
-c:\users\chris\documents\visual studio 2013\Projects\App1\App1\obj\Debug\android\assets\System.Diagnostics.Debug.dll
-c:\users\chris\documents\visual studio 2013\Projects\App1\App1\obj\Debug\android\assets\System.Reflection.dll
-c:\users\chris\documents\visual studio 2013\Projects\App1\App1\obj\Debug\android\assets\System.Linq.dll
-c:\users\chris\documents\visual studio 2013\Projects\App1\App1\obj\Debug\android\assets\System.Runtime.InteropServices.dll
-c:\users\chris\documents\visual studio 2013\Projects\App1\App1\obj\Debug\android\assets\System.Runtime.Extensions.dll
-c:\users\chris\documents\visual studio 2013\Projects\App1\App1\obj\Debug\android\assets\System.Reflection.Extensions.dll
-c:\users\chris\documents\visual studio 2013\Projects\App1\App1\obj\Debug\android\assets\System.Runtime.Serialization.dll
-c:\users\chris\documents\visual studio 2013\Projects\App1\App1\obj\Debug\android\assets\System.ServiceModel.Internals.dll
-c:\users\chris\documents\visual studio 2013\Projects\App1\App1\obj\Debug\android\assets\System.Net.Http.dll
+C:\Users\Chris\Documents\GitHub\Story_Reader\App1\App1\obj\Debug\android\assets\Story_Reader.dll
+C:\Users\Chris\Documents\GitHub\Story_Reader\App1\App1\obj\Debug\android\assets\Java.Interop.dll
+C:\Users\Chris\Documents\GitHub\Story_Reader\App1\App1\obj\Debug\android\assets\Mono.Android.dll
+C:\Users\Chris\Documents\GitHub\Story_Reader\App1\App1\obj\Debug\android\assets\mscorlib.dll
+C:\Users\Chris\Documents\GitHub\Story_Reader\App1\App1\obj\Debug\android\assets\System.Core.dll
+C:\Users\Chris\Documents\GitHub\Story_Reader\App1\App1\obj\Debug\android\assets\System.dll
+C:\Users\Chris\Documents\GitHub\Story_Reader\App1\App1\obj\Debug\android\assets\System.Xml.dll
+C:\Users\Chris\Documents\GitHub\Story_Reader\App1\App1\obj\Debug\android\assets\System.Xml.Linq.dll
+C:\Users\Chris\Documents\GitHub\Story_Reader\App1\App1\obj\Debug\android\assets\System.Threading.dll
+C:\Users\Chris\Documents\GitHub\Story_Reader\App1\App1\obj\Debug\android\assets\System.Runtime.dll
+C:\Users\Chris\Documents\GitHub\Story_Reader\App1\App1\obj\Debug\android\assets\System.ComponentModel.Composition.dll
+C:\Users\Chris\Documents\GitHub\Story_Reader\App1\App1\obj\Debug\android\assets\System.Collections.dll
+C:\Users\Chris\Documents\GitHub\Story_Reader\App1\App1\obj\Debug\android\assets\System.Collections.Concurrent.dll
+C:\Users\Chris\Documents\GitHub\Story_Reader\App1\App1\obj\Debug\android\assets\System.Diagnostics.Debug.dll
+C:\Users\Chris\Documents\GitHub\Story_Reader\App1\App1\obj\Debug\android\assets\System.Reflection.dll
+C:\Users\Chris\Documents\GitHub\Story_Reader\App1\App1\obj\Debug\android\assets\System.Linq.dll
+C:\Users\Chris\Documents\GitHub\Story_Reader\App1\App1\obj\Debug\android\assets\System.Runtime.InteropServices.dll
+C:\Users\Chris\Documents\GitHub\Story_Reader\App1\App1\obj\Debug\android\assets\System.Runtime.Extensions.dll
+C:\Users\Chris\Documents\GitHub\Story_Reader\App1\App1\obj\Debug\android\assets\System.Reflection.Extensions.dll
+C:\Users\Chris\Documents\GitHub\Story_Reader\App1\App1\obj\Debug\android\assets\System.Runtime.Serialization.dll
+C:\Users\Chris\Documents\GitHub\Story_Reader\App1\App1\obj\Debug\android\assets\System.ServiceModel.Internals.dll
+C:\Users\Chris\Documents\GitHub\Story_Reader\App1\App1\obj\Debug\android\assets\System.Net.Http.dll

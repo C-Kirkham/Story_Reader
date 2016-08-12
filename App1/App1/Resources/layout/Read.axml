@@ -2,7 +2,9 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:actionBarNavMode="tabs">
     <Gallery
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -26,10 +28,11 @@
             android:id="@+id/textView1"
             android:layout_marginLeft="100.0dp" />
     </GridLayout>
-    <TextView
-        android:text="Large Text"
-        android:textAppearance="?android:attr/textAppearanceLarge"
+    <ScrollView
+        android:minWidth="25px"
+        android:minHeight="25px"
         android:layout_width="match_parent"
-        android:layout_height="25.0dp"
-        android:id="@+id/ChapterBody" />
+        android:layout_height="694.0dp"
+        android:id="@+id/scrollView1"
+        android:layout_marginBottom="209.0dp" />
 </LinearLayout>
