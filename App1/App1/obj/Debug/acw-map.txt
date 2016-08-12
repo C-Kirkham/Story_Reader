@@ -1,0 +1,4 @@
+Story_Reader.MainActivity, Story_Reader;md594ac1a6629865adaed0b5f48b5c8d98c.MainActivity
+Story_Reader.MainActivity, Story_Reader, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md594ac1a6629865adaed0b5f48b5c8d98c.MainActivity
+Story_Reader.MainActivity;md594ac1a6629865adaed0b5f48b5c8d98c.MainActivity
+story_reader.MainActivity;md594ac1a6629865adaed0b5f48b5c8d98c.MainActivity
